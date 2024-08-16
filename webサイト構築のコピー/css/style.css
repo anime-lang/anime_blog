@@ -1,0 +1,118 @@
+@charset "UTF-8";
+
+body {
+    font-family: "Hiragino Kaku Gothic Pro" , "Meiryo" ,sans-serif;
+    border-top :10px solid #79a1b1 !important; 
+    
+}
+
+a{
+   
+text-align: center;
+display: flex;
+  
+    
+
+
+}
+
+
+
+h1 {
+    text-align:center
+    
+    
+
+}
+
+
+
+.header {
+    width: 1200px;
+    margin-top: 15px;
+    margin-bottom: 0 auto;
+    background-color: #eee;
+    text-align: center;
+}
+
+header ul {
+    display: flex;
+
+}
+
+header ul li {
+        width: 200px;
+        text-align: center;
+        
+}
+
+header ul li :first-child{
+    border-left:1px solid #ddd;
+}
+div{
+    text-align: center;
+}
+
+
+
+
+header ul li{
+    display: flex;
+    flex-flow:column ;
+    
+}
+
+
+
+
+
+div{
+    margin: 15px;
+}
+
+p{
+    margin-top: 15px;
+    text-align: center;
+    font-size: large;
+}
+
+li{
+    text-align: center;
+    place-content: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+a{
+    margin-top: 15px;
+    text-align: center;
+    place-content: center;
+    text-align: center;
+    
+}
+
+header{
+    display: flex;
+    flex-flow: column;
+    text-align: center;
+
+}
+.container{
+    display: flex;
+    
+}
+
+img{
+    width: 450px;
+    height: 200px;
+}
+
+li{
+    text-align: center;
+}
+
+div{
+    
+}
+
+
+
